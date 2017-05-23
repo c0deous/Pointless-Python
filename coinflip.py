@@ -3,6 +3,9 @@
 
 # Coinflip
 # A weighted coinflip program
+#
+# by Jesse Wallace (@c0deous)
+# https://c0deo.us/
 
 import random
 

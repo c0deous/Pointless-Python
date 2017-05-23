@@ -3,6 +3,9 @@
 
 # 8ball
 # Just Ask
+#
+# by Jesse Wallace (@c0deous)
+# https://c0deo.us/
 
 import random
 

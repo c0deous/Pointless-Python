@@ -3,6 +3,9 @@
 
 # aesthetic
 # Makes a string more a e s t h e t i c
+#
+# by Jesse Wallace (@c0deous)
+# https://c0deo.us/
 
 import sys
 
